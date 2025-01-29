@@ -1,0 +1,21 @@
+[
+    { "id": 1, "nombre": "Air Jordan 1 Retro Low OG SP Fragment x Travis Scott", "precio": 180, "imagen": "../img/zapatilla1.jpg" },
+    { "id": 2, "nombre": "Jordan 1 Travis Scott Low OG Reverse Mocha", "precio": 175, "imagen": "../img/zapatilla2.jpg" },
+    { "id": 3, "nombre": "Jordan 1 High Travis Scott", "precio": 2100, "imagen": "../img/zapatilla3.png" },
+    { "id": 4, "nombre": "Adidas Campus Black", "precio": 185, "imagen": "../img/zapatilla4.png" },
+    { "id": 5, "nombre": "Adidas Samba", "precio": 145, "imagen": "../img/zapatilla5.png" },
+    { "id": 6, "nombre": "Forum X Bad Bunny Black", "precio": 245, "imagen": "../img/zapatilla6.png" },
+    { "id": 7, "nombre": "Puma Suede XL Black", "precio": 120, "imagen": "../img/zapatilla7.png" },
+    { "id": 8, "nombre": "Puma Suede XL Blue", "precio": 175, "imagen": "../img/zapatilla8.png" },
+    { "id": 9, "nombre": "Puma 180", "precio": 130, "imagen": "../img/zapatilla9.png" },
+    { "id": 10, "nombre": "Jordan Retro 4 Military Blue White", "precio": 180, "imagen": "../img/zapatilla10.jpg" },
+    { "id": 11, "nombre": "Jordan Retro 4 Military Black", "precio": 150, "imagen": "../img/Zapatilla11.jpg" },
+    { "id": 12, "nombre": "Air Jordan X Powder Blue", "precio": 180, "imagen": "../img/zapatilla12.jpg" },
+    { "id": 13, "nombre": "Jordan Retro 11 GRATITUDE", "precio": 180, "imagen": "../img/zapatilla13.jpg" },
+    { "id": 14, "nombre": "Jordan 3 Retro Fire Red", "precio": 230, "imagen": "../img/zapatilla14.jpg" },
+    { "id": 15, "nombre": "Jordan 4 Off White", "precio": 2000, "imagen": "../img/zapatilla15.jpg" },
+    { "id": 16, "nombre": "Nike Cortez White", "precio": 180, "imagen": "../img/zapatilla16.png" },
+    { "id": 17, "nombre": "Air Force One White", "precio": 80, "imagen": "../img/zapatilla17.png" },
+    { "id": 18, "nombre": "Air Force One Black", "precio": 90, "imagen": "../img/zapatilla18.jpg" }
+    
+]

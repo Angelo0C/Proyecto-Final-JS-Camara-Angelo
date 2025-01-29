@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZapaTienda</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Protest+Guerrilla&display=swap"
+        rel="stylesheet">
+    <!-- Link SweetAlert2 -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</head>
+
+<body>
+    <header>
+        <div class="navbar">
+            <div class="logo">ZapaTienda</div>
+            <ul class="nav-links">
+                <li><a href="#productos">Productos</a></li>
+                <li><a href="./pages/about-us.html">Sobre Nosotros</a></li>
+                <li><a href="./pages/contact.html">Contáctanos</a></li>
+                <li><a href="#" id="open-cart">Carrito</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- Carrito desplegable -->
+    <div id="carrito-lateral">
+        <button id="cerrar-carrito" aria-label="Cerrar carrito">&times;</button>
+        <h2>Carrito</h2>
+        <ul id="lista-carrito"></ul>
+        <p id="total">Total: $0</p>
+        <button id="btn-comprar">Comprar</button>
+    </div>
+
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Descubre las Mejores Zapatillas</h1>
+                <p>Estilo y comodidad al alcance de tus pies.</p>
+                <a href="#productos" class="btn">Explorar Productos</a>
+            </div>
+        </section>
+
+        <section id="productos" class="productos">
+            <h2>Catálogo de Productos</h2>
+            <div class="productos-grid">
+       
+            </div>
+
+        </section>
+
+
+    </main>
+
+    <footer>
+        <p>© 2025 ZapaTienda. Todos los derechos reservados.</p>
+    </footer>
+    <script src="./js/main.js"></script>
+
+</body>
+
+</html>
