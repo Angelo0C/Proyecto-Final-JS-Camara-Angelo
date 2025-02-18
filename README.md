@@ -6,5 +6,5 @@ Clona el repositorio o descargalo
 
 git clone https://github.com/Angelo0C/Proyecto-Final-JS-Camara-Angelo/
 
-usa Live Server en VS Code YA QUE fETCH NO PERMITE ALGUNAS FUNCIONALIDADES DESDE UN ARCHIVO LOCAL. 
+usa Live Server en VS Code YA QUE FETCH NO PERMITE ALGUNAS FUNCIONALIDADES DESDE UN ARCHIVO LOCAL. 
 Ante todo muchas gracias profe, espero que haya leido esto. Me gustaron mucho las clases aprendí bastante, Me seguí informando y formandome por mi cuenta , desde ya Muchas Gracias!
